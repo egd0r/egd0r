@@ -6,6 +6,7 @@
 __ __
 __Cool stuff:__ (in no particular order)...
 - 📖 http://www.paecon.net/PAEReview/issue87/Hickel87.pdf
+- 🌐 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
 - 🌐 https://catern.com/
 - 📖 https://cdn.ttgtmedia.com/rms/security/Network-Forensics.pdf
 - 📖 https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Soares.pdf
