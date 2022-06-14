@@ -13,7 +13,6 @@ __Cool stuff:__ (in no particular order)...
 - 🌐 https://www.gwern.net/Choosing-Software
 - 📖 https://tldp.org/LDP/lkmpg/2.6/html/index.html
 - 📖 https://lwn.net/Kernel/LDD3/
-- 🌐 https://www.stallman.org/archives/
 - 💻 https://www.emertxe.com/embedded-systems/c-programming/c-projects/lsb-image-steganography/
 
 <!---
