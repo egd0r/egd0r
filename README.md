@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edgar
 - 👀 I’m interested in low level software and improving my C programming skills
 - 🌱 I’m currently learning how to:
-    - Train DNNs on large satellite images
+    - Operating System
 
 __ __
 __Cool stuff:__ (in no particular order)...
