@@ -6,7 +6,7 @@
 __ __
 __Cool stuff:__ (in no particular order)...
 - 📖 http://www.paecon.net/PAEReview/issue87/Hickel87.pdf
-- 🌐 http://tunes.org/wiki/microkernel.html !!!
+- 🌐 http://tunes.org/wiki/microkernel_20debate.html !!!
 - 🌐 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
 - 🌐 https://catern.com/
 - 🌐 https://alex.dzyoba.com/blog/
