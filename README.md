@@ -16,6 +16,7 @@ __Cool stuff:__ (in no particular order)...
 - 📖 https://tldp.org/LDP/lkmpg/2.6/html/index.html
 - 📖 https://lwn.net/Kernel/LDD3/
 - 💻 https://www.emertxe.com/embedded-systems/c-programming/c-projects/lsb-image-steganography/
+- 🌐 https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/3343/3305
 
 <!---
 egd0r/egd0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
